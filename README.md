@@ -23,6 +23,6 @@ Here are some of my notable projects that I have worked on:
 ## Education
  Master's Degree in Computer Science from Stevens Institute of Technology
 
-# Display
+## Display
 ![image](https://user-images.githubusercontent.com/90535397/235047172-fe490eda-4728-4207-a8ff-0487d87777b5.png)
 
